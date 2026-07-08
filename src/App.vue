@@ -15,7 +15,7 @@ const count = ref(0)
         </svg>
       </div>
       <h1>Vue + Vite</h1>
-      <p class="subtitle">Deployed with <a href="https://ml.ink" target="_blank" rel="noopener noreferrer">Ink</a></p>
+      <p class="subtitle">Deployed with <a href="https://deployink.com" target="_blank" rel="noopener noreferrer">Ink</a></p>
     </header>
 
     <main>
@@ -29,7 +29,7 @@ const count = ref(0)
       <div class="links">
         <a href="https://vuejs.org" target="_blank" rel="noopener noreferrer">Vue Docs</a>
         <a href="https://vite.dev" target="_blank" rel="noopener noreferrer">Vite Docs</a>
-        <a href="https://docs.ml.ink" target="_blank" rel="noopener noreferrer">Ink Docs</a>
+        <a href="https://docs.deployink.com" target="_blank" rel="noopener noreferrer">Ink Docs</a>
       </div>
     </main>
   </div>
